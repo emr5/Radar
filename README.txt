@@ -1,6 +1,6 @@
-# README for SV Car Radar #
+# README for EO Car Radar #
 
-This is the README file for the SV Car Radar app. It's a great place to write
+This is the README file for the EO Car Radar app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
 
